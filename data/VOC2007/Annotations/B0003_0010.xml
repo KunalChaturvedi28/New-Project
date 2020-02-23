@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B0003</folder>
+	<filename>B0003_0010.png</filename>
+	<path>D:\Project\XRay_ threat\Baggages\Baggages\B0003\B0003_0010.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1430</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>501</ymin>
+			<xmax>323</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>
